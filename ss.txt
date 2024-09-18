@@ -3111,6 +3111,6 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "spider": "https://mirror.ghproxy.com/https://github.com/kan31467/1/raw/main/jar/kan1.jar
+  "spider": "https://mirror.ghproxy.com/https://github.com/kan31467/mg/raw/main/jar/kan1.jar
 "
 }
